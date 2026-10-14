@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://ai-game-strategy.vercel.app/api";
 
 export const getStrategy = async ({
   game,
